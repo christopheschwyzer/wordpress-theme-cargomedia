@@ -1,3 +1,9 @@
+## Warning: Discontinued
+
+This project is no longer maintained.
+
+---
+
 Theme Name: cargomedia
 Live URL: http://cargomedia.ch
 Description: minimal, responsive, html5
